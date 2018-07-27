@@ -1,3 +1,6 @@
+/* This was Dave's code for JS, keep it just in case you can use it for photo plugin*/
+
+
 $(".animsition").animsition({
   inClass: 'fade-in-right-lg',
   outClass: 'fade-out-right-lg',
@@ -30,28 +33,3 @@ $('.work').on('sticky-start', function() {
 $('.work').on('sticky-end', function() {
     $('.email-text').remove();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
